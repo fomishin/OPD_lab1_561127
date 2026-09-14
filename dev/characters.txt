@@ -1,1 +1,5 @@
-"-> Main Hero \n-> Main Villian \n-> Comic Relief" 
+-> Narfi, the main character
+-> Vidofnir, the main villian, giant bird
+-> Loftur, the comic relief, lazy friend of Narfi
+-> Fiolsvith, the old wise watchman
+-> Mengloth, the maiden who watchman guards
